@@ -1,0 +1,7 @@
+x_value is 10
+y_value is 5
+sum_of_numbers is 15
+product_of_numbers is 24
+result_mod is 0
+numbers_list is << 1, 2, 3, 4, 5 >>
+length_of_numbers is 5

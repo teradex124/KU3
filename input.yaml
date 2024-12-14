@@ -1,0 +1,7 @@
+x_value: 10
+y_value: 5
+sum_of_numbers: "@(+ 1 2 3 4 5)"
+product_of_numbers: "@(* 2 3 4)"
+result_mod: "@(mod x_value y_value)"
+numbers_list: [1, 2, 3, 4, 5]
+length_of_numbers: "@(len numbers_list)"
