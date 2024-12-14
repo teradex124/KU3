@@ -53,6 +53,7 @@ python3 main.py --input input.yaml --output output.txt
 
 # Тесты
 ### Входные данные
-
+![](https://github.com/teradex124/KU3/blob/main/input.png)
 
 ### Выходные данные
+![](https://github.com/teradex124/KU3/blob/main/output.png)
